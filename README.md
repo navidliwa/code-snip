@@ -24,7 +24,9 @@ Code Snip is a lightweight, browser based text editor that will cache your code 
 
 ## Usage
 
-In order to use Code Snip simply start typing and the site will automatically catch changes and save them!
+In order to use Code Snip simply start typing and the site will automatically catch changes and save them! And in order to install Code Snip as a web app, simply click the "Install" button in the top left.
+
+[screenshot](./assets/screenshot.jpg)
 
 
 ## Features
