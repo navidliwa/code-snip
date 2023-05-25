@@ -20,7 +20,7 @@ module.exports = () => {
       // Webpack plugin that generates our html file and injects our bundles. 
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'CodeSnip'
+        title: 'JATE'
       }),
      
       // Injects our custom service worker
@@ -33,8 +33,8 @@ module.exports = () => {
       new WebpackPwaManifest({
         fingerprints: false,
         inject: true,
-        name: 'Your Personal Code Editor',
-        short_name: 'YPCE',
+        name: 'Just Another Code Editor',
+        short_name: 'JATE',
         description: 'Edit text!',
         background_color: '#225ca3',
         theme_color: '#225ca3',
