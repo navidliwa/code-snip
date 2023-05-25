@@ -17,7 +17,7 @@ Code Snip is a lightweight, browser based text editor that will cache your code 
 
 - [Features](#features)
 
-- [Technologies Used](#technologies_used)
+- [Technologies Used](#technologies-used)
 
 - [License](#license)
 
